@@ -1,0 +1,2 @@
+# core-mono
+Monorepo core
